@@ -1,6 +1,5 @@
 Freetronics TwentyTen
-  Arduino Compatible Board
-=======================================
+=============================
 Copyright 2010 Freetronics Pty Ltd
 Freetronics site:  <www.freetronics.com>
 Freetronics email: <info@freetronics.com>
