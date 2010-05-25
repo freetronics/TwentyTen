@@ -23,7 +23,7 @@ You can view more at our product page at:
 
   http://www.freetronics.com/products/twentyten
 
-The \docs folder within this repository includes a handy copy of the
+The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format, images of the pcb, and our Getting Started
 guide that ships with each board.
 
@@ -49,7 +49,7 @@ or send a letter to
   California, 94105  
   USA
 
-The \license folder within this repository also contains copies of the
+The "license" folder within this repository also contains copies of the
 licences referenced above.
 
 CREDITS
