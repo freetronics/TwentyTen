@@ -1,8 +1,8 @@
 Freetronics TwentyTen
 =============================
-Copyright 2010 Freetronics Pty Ltd 
-Freetronics site:  <www.freetronics.com> 
-Freetronics email: <info@freetronics.com> 
+Copyright 2010 Freetronics Pty Ltd  
+Freetronics site:  <www.freetronics.com>  
+Freetronics email: <info@freetronics.com>  
 
 The TwentyTen is a 100% Arduino Compatible Board, based on the existing
 Duemilanove, but with improvements and updates for ease of use, cost
@@ -35,10 +35,10 @@ license referenced below.
 LICENSE
 -------
 This work is licensed under the
-Creative Commons Attribution-Share Alike License. 
+Creative Commons Attribution-Share Alike License.  
 To view a copy of this license, visit
 
-  http://creativecommons.org/licenses/by-sa/3.0/
+  http://creativecommons.org/licenses/by-sa/3.0/  
   http://creativecommons.org/licenses/by-sa/3.0/legalcode
 
 or send a letter to
