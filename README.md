@@ -15,7 +15,7 @@ Features:
  * Prototyping area
  * LEDs visible on the edge
  * Mini-USB Connector
- * Overlay guide where you need it
+ * Overlay guide where you need it (both top and bottom)
  * D13 pin works for everything
  * RX pin biased
  * Mounting holes, power and X3 pads
