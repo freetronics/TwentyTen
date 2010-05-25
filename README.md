@@ -1,11 +1,9 @@
 Freetronics TwentyTen
 =============================
-Copyright 2010 Freetronics Pty Ltd
-Freetronics site:  <www.freetronics.com>
-Freetronics email: <info@freetronics.com>
+Copyright 2010 Freetronics Pty Ltd 
+Freetronics site:  <www.freetronics.com> 
+Freetronics email: <info@freetronics.com> 
 
-Freetronics TwentyTen
-=============================
 The TwentyTen is a 100% Arduino Compatible Board, based on the existing
 Duemilanove, but with improvements and updates for ease of use, cost
 and getting started.
@@ -53,3 +51,15 @@ or send a letter to
 
 The \license folder within this repository also contains copies of the
 licences referenced above.
+
+CREDITS
+-------
+The TwentyTen was designed by Marc Alexander (marc@freetronics.com)
+based on previous work by the Arduino team
+(www.arduino.cc/playground/Main/People) which includes:
+
+ * Massimo Banzi
+ * David Cuartielles
+ * Tom Igoe
+ * Gianluca Martino
+ * David A. Mellis
