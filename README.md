@@ -27,10 +27,21 @@ The "docs" folder within this repository includes a handy copy of the
 schematic in PDF format, images of the pcb, and our Getting Started
 guide that ships with each board.
 
+
+INSTALLATION
+------------
+The design is saved as an EAGLE project. EAGLE PCB design software is
+available from www.cadsoftusa.com free for non-commercial use. To use
+this project download it and place the directory containing these files
+into the "eagle" directory on your computer. Then open EAGLE and
+navigate to Projects -> eagle -> TwentyTen.
+
+
 DISTRIBUTION
 ------------
 The specific terms of distribution of this project are governed by the
 license referenced below.
+
 
 LICENSE
 -------
@@ -51,6 +62,7 @@ or send a letter to
 
 The "license" folder within this repository also contains copies of the
 licences referenced above.
+
 
 CREDITS
 -------
